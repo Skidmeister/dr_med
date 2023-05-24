@@ -10,7 +10,7 @@ You can change the value for intensity of signal and of size of the aggregates f
 
 
 ## Visualisations
-Furthermore, all my plots used in the thesis are done with use of python in particular with matplotlib library.
+Furthermore, all my plots used in the thesis are done with use of python in particular with matplotlib library. The script is the `Dr_med_figures.ipynb` file, while the figures created are all the `.png` files.
 
 
 # Thesis
